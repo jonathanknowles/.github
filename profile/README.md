@@ -17,7 +17,7 @@ At its core, Intersect will focus on ensuring, through its members, the future m
 ### Intersect Membership
 
 Be part of the community taking an active role in the next generation of Cardano—and make positive change a reality.
-As Intersect launches, join in and help develop Cardano and it's future.
+As Intersect launches, join in and help develop Cardano and its future.
 
 ### Shape the future
 
@@ -35,6 +35,6 @@ Showcase your contributions and successes in the Cardano ecosystem through membe
 
 ### Open Source Office
 
-For more information pertaining to Intersect and it's Open Source Projects, please find your way to the [pinned OSO Repo](https://github.com/IntersectMBO/OSPO) under Intersect MBO Homepage.
+For more information pertaining to Intersect and its Open Source Projects, please find your way to the [pinned OSO Repo](https://github.com/IntersectMBO/OSPO) under Intersect MBO Homepage.
 More information is also avaible at this URL: https://www.intersectmbo.org
 For all other items, please feel free to message the Open Source Office at oso@intersectmbo.org
